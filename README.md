@@ -29,14 +29,6 @@ Le prototype couvre : processus qualité (ISO 25010), pipeline CI/CD + tests, s�
 | [`collector-frontend`](https://github.com/LeopoldPetit/collector-frontend) | App React (catalogue public + espace vendeur) |
 | `collector-docs` | Ce repo — livrables écrits |
 
-## Contenu attendu
-
-```
-00-plan-general.md              # rôle, US mère, macro-planning, compétences, indicateurs qualité, cycle DevSecOps
-01-architecture.md              # stack technique, schémas d'architecture et de pipeline CI/CD, sécurité, observabilité
-02-backlog-repos-commits.md     # backlog priorisé, séquence d'exécution, stratégie de branches/commits
-03-plan-remediation.md          # plan de remédiation sécurité (phase 3, après analyse des tests/scans)
-```
 
 ## Les 3 phases du projet
 
